@@ -1,0 +1,1 @@
+ window.alert("On test Git");
