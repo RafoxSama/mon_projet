@@ -1,1 +1,1 @@
- window.alert("On test Git");
+ window.alert("On test Git & Github");
